@@ -30,5 +30,5 @@ class Article extends Component {
 	  );
 	}
 }
-
+// test
 export default Article;
